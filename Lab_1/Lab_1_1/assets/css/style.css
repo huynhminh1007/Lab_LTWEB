@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+table {
+    border: 2px solid #000;
+}
+
+.table-header td,
+.table-footer td {
+    border: 1px solid #000;
+}
+
+.table-footer {
+    text-align: center;
+}
